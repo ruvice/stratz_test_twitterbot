@@ -1,0 +1,9 @@
+{"LiveEventPlayerWinStreakType":[{"data":{"feedLive":{"__typename":"LiveEventPlayerWinStreakType","winStreakCount":19,"steamAccount":{"name":"J O K E R"}}}}],
+"LiveEventPlayerHeroWinStreakType":[],
+"LiveEventPlayerHeroKillsType":[],
+"LiveEventPlayerHeroAssistsType":[],
+"LiveEventPlayerHeroGoldPerMinuteType":[],
+"LiveEventPlayerHeroHighImpType":[],
+"LiveEventPlayerRankUpType":[],
+"LiveEventMatchDireTide2020StompType":[{"data":{"feedLive":{"__typename":"LiveEventMatchDireTide2020StompType","match":{"id":5680533775,"durationSeconds":1946,"radiantCandyScored":638,"direCandyScored":202}}}},{"data":{"feedLive":{"__typename":"LiveEventMatchDireTide2020StompType","match":{"id":5680535803,"durationSeconds":1946,"radiantCandyScored":838,"direCandyScored":264}}}},{"data":{"feedLive":{"__typename":"LiveEventMatchDireTide2020StompType","match":{"id":5680536443,"durationSeconds":1946,"radiantCandyScored":575,"direCandyScored":148}}}}],
+"LiveEventPlayerDireTide2020CandyScoredType":[{"data":{"feedLive":{"__typename":"LiveEventPlayerDireTide2020CandyScoredType","heroId":21,"candyScored":317,"steamAccount":{"name":"TR1K"}}}},{"data":{"feedLive":{"__typename":"LiveEventPlayerDireTide2020CandyScoredType","heroId":91,"candyScored":317,"steamAccount":{"name":"рено логан"}}}}]}
