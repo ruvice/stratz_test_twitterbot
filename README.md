@@ -14,4 +14,6 @@ module.exports = {
 
 If you do not already have a developer account from Twitter, you must request for one from Twitter.
 
+
+When running the project, the file of interest is final.js. To run it locally, user "node final.js"
 Dependencies: twit, graphqurl
