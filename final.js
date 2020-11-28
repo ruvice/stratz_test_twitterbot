@@ -520,7 +520,7 @@ function intervalFunc() {
                         })
                         .catch((error) => console.error(error))
 
-                        tweetString = eventDetails.steamAccount.name + " just scored " + eventDetails.candyScored + " on " + queriedheroId + "!"
+                        tweetString = eventDetails.steamAccount.name + " just scored " + eventDetails.candyScored + " candy on " + queriedheroId + "!"
                         tweetContent.push(tweetString)
                     }
                     break
